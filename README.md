@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Backend & DevOps Intern at Chaoswale Private Limited
+- 🔭 I’m currently working as Backend Developer Intern at Akto.io
 - 🌱 I’m currently learning Django for Backend
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm an avid Chess player and have won several medals in Inter-College tournaments
 -->
 # 💫 About Me:
-- 🔭 I'm currently perfecting my craft as a Backend & DevOps Intern at Chaoswale Private Limited
+- 🔭 I'm currently perfecting my craft as a Backend Developer Intern at Akto.io
 - 🌱 I’m currently learning Django
 - ⚡ Fun fact: I'm an avid Chess player and have won several medals in Inter-College tournaments
 
